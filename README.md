@@ -1,6 +1,6 @@
 # Dyno Encyclopedia
 
 TODO: 
-- add licence
-- create .gitignore
 - describe characters hirerarchy
+- describe actors
+- describe basic acceptance tests in the stories issues
